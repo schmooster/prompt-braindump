@@ -1,0 +1,26 @@
+--2023-02-24 02:48:28--  https://blockade-platform-production.s3.amazonaws.com/images/imagine/vr_regular_geometric_shape_tesseract_vertices_edges_squares_cubes__003cf562490f8497__412611_00.jpg
+Resolving blockade-platform-production.s3.amazonaws.com (blockade-platform-production.s3.amazonaws.com)... 3.5.17.197, 52.216.238.83, 54.231.164.97, ...
+Connecting to blockade-platform-production.s3.amazonaws.com (blockade-platform-production.s3.amazonaws.com)|3.5.17.197|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 773664 (756K) [image/jpeg]
+Saving to: ‘vr_regular_geometric_shape_tesseract_vertices_edges_squares_cubes__003cf562490f8497__412611_00.jpg’
+
+     0K .......... .......... .......... .......... ..........  6%  577K 1s
+    50K .......... .......... .......... .......... .......... 13%  513K 1s
+   100K .......... .......... .......... .......... .......... 19%  576K 1s
+   150K .......... .......... .......... .......... .......... 26% 2.36M 1s
+   200K .......... .......... .......... .......... .......... 33%  705K 1s
+   250K .......... .......... .......... .......... .......... 39%  646K 1s
+   300K .......... .......... .......... .......... .......... 46%  588K 1s
+   350K .......... .......... .......... .......... .......... 52% 8.45M 0s
+   400K .......... .......... .......... .......... .......... 59%  607K 0s
+   450K .......... .......... .......... .......... .......... 66% 5.48M 0s
+   500K .......... .......... .......... .......... .......... 72%  666K 0s
+   550K .......... .......... .......... .......... .......... 79% 1.13M 0s
+   600K .......... .......... .......... .......... .......... 86%  980K 0s
+   650K .......... .......... .......... .......... .......... 92% 1.55M 0s
+   700K .......... .......... .......... .......... .......... 99%  845K 0s
+   750K .....                                                 100% 28.7M=0.9s
+
+2023-02-24 02:48:29 (856 KB/s) - ‘vr_regular_geometric_shape_tesseract_vertices_edges_squares_cubes__003cf562490f8497__412611_00.jpg’ saved [773664/773664]
+

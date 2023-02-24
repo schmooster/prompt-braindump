@@ -1,0 +1,22 @@
+--2023-02-24 02:48:27--  https://blockade-platform-production.s3.amazonaws.com/images/imagine/vr_regular_geometric_shape_tesseract_vertices_edges_squares_cubes__415f493e0f2a4513__412545_41.jpg
+Resolving blockade-platform-production.s3.amazonaws.com (blockade-platform-production.s3.amazonaws.com)... 3.5.21.171, 54.231.136.217, 54.231.139.217, ...
+Connecting to blockade-platform-production.s3.amazonaws.com (blockade-platform-production.s3.amazonaws.com)|3.5.21.171|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 576975 (563K) [image/jpeg]
+Saving to: ‘vr_regular_geometric_shape_tesseract_vertices_edges_squares_cubes__415f493e0f2a4513__412545_41.jpg’
+
+     0K .......... .......... .......... .......... ..........  8%  276K 2s
+    50K .......... .......... .......... .......... .......... 17% 5.86M 1s
+   100K .......... .......... .......... .......... .......... 26%  604K 1s
+   150K .......... .......... .......... .......... .......... 35% 8.32M 1s
+   200K .......... .......... .......... .......... .......... 44% 5.03M 0s
+   250K .......... .......... .......... .......... .......... 53%  622K 0s
+   300K .......... .......... .......... .......... .......... 62% 34.3M 0s
+   350K .......... .......... .......... .......... .......... 70% 3.83M 0s
+   400K .......... .......... .......... .......... .......... 79% 18.7M 0s
+   450K .......... .......... .......... .......... .......... 88% 22.1M 0s
+   500K .......... .......... .......... .......... .......... 97% 43.3M 0s
+   550K .......... ...                                        100% 73.5M=0.4s
+
+2023-02-24 02:48:28 (1.42 MB/s) - ‘vr_regular_geometric_shape_tesseract_vertices_edges_squares_cubes__415f493e0f2a4513__412545_41.jpg’ saved [576975/576975]
+

@@ -1,0 +1,23 @@
+--2023-02-24 02:48:00--  https://blockade-platform-production.s3.amazonaws.com/images/imagine/vr_simulated_metarecursive_function_model_causes_inversion_looping__d4e7a3678029a23f__407558_d.jpg
+Resolving blockade-platform-production.s3.amazonaws.com (blockade-platform-production.s3.amazonaws.com)... 3.5.20.129, 52.217.92.20, 54.231.198.121, ...
+Connecting to blockade-platform-production.s3.amazonaws.com (blockade-platform-production.s3.amazonaws.com)|3.5.20.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 634313 (619K) [image/jpeg]
+Saving to: ‘vr_simulated_metarecursive_function_model_causes_inversion_looping__d4e7a3678029a23f__407558_d.jpg’
+
+     0K .......... .......... .......... .......... ..........  8%  260K 2s
+    50K .......... .......... .......... .......... .......... 16%  505K 2s
+   100K .......... .......... .......... .......... .......... 24%  250K 2s
+   150K .......... .......... .......... .......... .......... 32%  499K 1s
+   200K .......... .......... .......... .......... .......... 40%  520K 1s
+   250K .......... .......... .......... .......... .......... 48%  430K 1s
+   300K .......... .......... .......... .......... .......... 56%  276K 1s
+   350K .......... .......... .......... .......... .......... 64%  511K 1s
+   400K .......... .......... .......... .......... .......... 72%  503K 0s
+   450K .......... .......... .......... .......... .......... 80% 4.98M 0s
+   500K .......... .......... .......... .......... .......... 88%  489K 0s
+   550K .......... .......... .......... .......... .......... 96%  591K 0s
+   600K .......... .........                                  100%  242K=1.5s
+
+2023-02-24 02:48:02 (425 KB/s) - ‘vr_simulated_metarecursive_function_model_causes_inversion_looping__d4e7a3678029a23f__407558_d.jpg’ saved [634313/634313]
+
