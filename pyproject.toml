@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "prompt-braindump"
+version = "0.26.3"
+description = ""
+authors = ["Gaz Collins <schmooster@gmail.com>"]
+readme = "README.md"
+packages = [{include = "prompt_braindump"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
